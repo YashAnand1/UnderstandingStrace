@@ -124,9 +124,8 @@ strace ./sysCallsSelf
 - [Linux System Calls Explained](https://www.youtube.com/watch?v=JdVn3RMLU_Q&ab_channel=NirLichtman)
 - [Linux Tutorial: How a Linux System Call Works](https://www.youtube.com/watch?v=FkIWDAtVIUM&pp=ygUXd2hhdCBhcmUgc3lzY2FsbHMgbGludXg%3D)
 - [Lets understand Linux - syscall for noobs](https://www.youtube.com/watch?v=gYpWkbm6K98&t=18s&ab_channel=BugsWriter) [Great]
-- [eli5 What's the difference between os and an kernel] (https://www.reddit.com/r/explainlikeimfive/comments/12j9b4o/eli5_whats_the_difference_between_os_and_an_kernel/)
-- [Which linux system call is used by ls command in linux to display the folder/file name?]
-(https://stackoverflow.com/questions/12920976/which-linux-system-call-is-used-by-ls-command-in-linux-to-display-the-folder-fil)
+- [eli5 What's the difference between os and an kernel](https://www.reddit.com/r/explainlikeimfive/comments/12j9b4o/eli5_whats_the_difference_between_os_and_an_kernel/)
+- [Which linux system call is used by ls command in linux to display the folder/file name?](https://stackoverflow.com/questions/12920976/which-linux-system-call-is-used-by-ls-command-in-linux-to-display-the-folder-fil)
 - [SysCalls man page](https://man7.org/linux/man-pages/man2/syscalls.2.html)
 - [Are system call part of the kernel or are they part of the OS?](https://unix.stackexchange.com/questions/504288/are-system-calls-part-of-the-kernel-or-are-they-part-of-the-os#:~:text=So%20a%20system%20call%20is,a%20library%20(e.g.%20libc%20).)
 - [Syscalls, Kernel vs. User Mode and Linux Kernel Source Code - bin 0x09](https://www.youtube.com/watch?v=fLS99zJDHOc&ab_channel=LiveOverflow) [Great]
